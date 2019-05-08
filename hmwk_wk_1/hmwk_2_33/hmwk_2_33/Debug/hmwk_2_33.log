@@ -1,0 +1,15 @@
+﻿  answer_2_33.c
+c:\users\test\documents\visual studio 2017\projects\hmwk_2_33\hmwk_2_33\answer_2_33.c(21): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1272): note: see declaration of 'scanf'
+c:\users\test\documents\visual studio 2017\projects\hmwk_2_33\hmwk_2_33\answer_2_33.c(24): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1272): note: see declaration of 'scanf'
+c:\users\test\documents\visual studio 2017\projects\hmwk_2_33\hmwk_2_33\answer_2_33.c(27): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1272): note: see declaration of 'scanf'
+c:\users\test\documents\visual studio 2017\projects\hmwk_2_33\hmwk_2_33\answer_2_33.c(30): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1272): note: see declaration of 'scanf'
+c:\users\test\documents\visual studio 2017\projects\hmwk_2_33\hmwk_2_33\answer_2_33.c(33): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1272): note: see declaration of 'scanf'
+c:\users\test\documents\visual studio 2017\projects\hmwk_2_33\hmwk_2_33\answer_2_33.c(36): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1272): note: see declaration of 'scanf'
+  hmwk_2_33.vcxproj -> C:\Users\test\Documents\Visual Studio 2017\Projects\hmwk_2_33\Debug\hmwk_2_33.exe
+  hmwk_2_33.vcxproj -> C:\Users\test\Documents\Visual Studio 2017\Projects\hmwk_2_33\Debug\hmwk_2_33.pdb (Partial PDB)

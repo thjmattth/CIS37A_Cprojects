@@ -1,0 +1,7 @@
+﻿  answer_2_32_tjm.cpp
+c:\users\test\documents\visual studio 2017\projects\hwmk_2_32\hwmk_2_32\answer_2_32_tjm.cpp(19): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1272): note: see declaration of 'scanf'
+c:\users\test\documents\visual studio 2017\projects\hwmk_2_32\hwmk_2_32\answer_2_32_tjm.cpp(22): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1272): note: see declaration of 'scanf'
+  hwmk_2_32.vcxproj -> C:\Users\test\Documents\Visual Studio 2017\Projects\hwmk_2_32\Debug\hwmk_2_32.exe
+  hwmk_2_32.vcxproj -> C:\Users\test\Documents\Visual Studio 2017\Projects\hwmk_2_32\Debug\hwmk_2_32.pdb (Partial PDB)

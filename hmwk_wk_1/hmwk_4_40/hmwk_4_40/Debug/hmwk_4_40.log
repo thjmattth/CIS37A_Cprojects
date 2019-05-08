@@ -1,0 +1,19 @@
+﻿  hmwk_4_40_tjm.c
+c:\users\test\documents\visual studio 2017\projects\hmwk_4_40\hmwk_4_40\hmwk_4_40_tjm.c(28): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1272): note: see declaration of 'scanf'
+c:\users\test\documents\visual studio 2017\projects\hmwk_4_40\hmwk_4_40\hmwk_4_40_tjm.c(32): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1272): note: see declaration of 'scanf'
+c:\users\test\documents\visual studio 2017\projects\hmwk_4_40\hmwk_4_40\hmwk_4_40_tjm.c(36): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1272): note: see declaration of 'scanf'
+c:\users\test\documents\visual studio 2017\projects\hmwk_4_40\hmwk_4_40\hmwk_4_40_tjm.c(40): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1272): note: see declaration of 'scanf'
+c:\users\test\documents\visual studio 2017\projects\hmwk_4_40\hmwk_4_40\hmwk_4_40_tjm.c(44): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1272): note: see declaration of 'scanf'
+c:\users\test\documents\visual studio 2017\projects\hmwk_4_40\hmwk_4_40\hmwk_4_40_tjm.c(48): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1272): note: see declaration of 'scanf'
+c:\users\test\documents\visual studio 2017\projects\hmwk_4_40\hmwk_4_40\hmwk_4_40_tjm.c(52): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1272): note: see declaration of 'scanf'
+c:\users\test\documents\visual studio 2017\projects\hmwk_4_40\hmwk_4_40\hmwk_4_40_tjm.c(61): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1272): note: see declaration of 'scanf'
+  hmwk_4_40.vcxproj -> C:\Users\test\Documents\Visual Studio 2017\Projects\hmwk_4_40\Debug\hmwk_4_40.exe
+  hmwk_4_40.vcxproj -> C:\Users\test\Documents\Visual Studio 2017\Projects\hmwk_4_40\Debug\hmwk_4_40.pdb (Partial PDB)
